@@ -1,2 +1,4 @@
 # rob2b3u
-VÃ©lmenni II
+Vélmenni II 
+seinni áfangi í vélmennum þar sem nemendur byggja og forrita vélmenni
+til að leysa hinur ýmsu þrautir
