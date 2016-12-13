@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2016.12.12)  12 DEC 2016 23:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2016.12.12)  13 DEC 2016 00:32
 entering extended mode
 **./skyrsla.tex
 (skyrsla.tex
@@ -471,7 +471,14 @@ Package grfext Info: Graphics extension search list:
 (grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
-) [1
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 9.
+ [1
 
 {C:/Users/Notandi/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (skyrsla.
 toc)
@@ -479,48 +486,39 @@ toc)
 \openout3 = `skyrsla.toc'.
 
 
-(intro.tex) (hardware.tex) (timeplan.tex
-<img/gant.png, id=6, 760.34062pt x 422.32782pt>
+[2] (intro.tex) (hardware.tex) (timeplan.tex
+<img/gant.png, id=13, 760.34062pt x 422.32782pt>
 File: img/gant.png Graphic file (type png)
  <use img/gant.png>
 Package pdftex.def Info: img/gant.png used on input line 4.
-(pdftex.def)             Requested size: 380.16937pt x 211.16339pt.
-
-Overfull \hbox (35.16937pt too wide) in paragraph at lines 4--5
-[][] 
- []
-
+(pdftex.def)             Requested size: 228.10394pt x 126.69931pt.
 ) (sudo.tex
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<img/flowchart.png, id=8, 332.24126pt x 294.09875pt>
+<img/flowchart.png, id=15, 332.24126pt x 294.09875pt>
 File: img/flowchart.png Graphic file (type png)
  <use img/flowchart.png>
 Package pdftex.def Info: img/flowchart.png used on input line 4.
 (pdftex.def)             Requested size: 99.67314pt x 88.2303pt.
 )
-(testing.tex
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-) (conclution.tex) (references.tex) (appendix.tex [1]) [2 <./img/gant.png> <./i
-mg/flowchart.png>] (skyrsla.aux) ) 
+(testing.tex) (conclution.tex) (references.tex [3 <./img/gant.png> <./img/flowc
+hart.png>]) (appendix.tex) [4] (skyrsla.aux) ) 
 Here is how much of TeX's memory you used:
- 2566 strings out of 493333
- 32396 string characters out of 3139187
- 96133 words of memory out of 3000000
- 6051 multiletter control sequences out of 15000+200000
- 6722 words of font info for 18 fonts, out of 3000000 for 9000
+ 2594 strings out of 493333
+ 32705 string characters out of 3139187
+ 95133 words of memory out of 3000000
+ 6069 multiletter control sequences out of 15000+200000
+ 10990 words of font info for 29 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,7n,30p,237b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Notandi\AppData\Local\MiKTeX\2.9\f
-onts\pk\ljfour\jknappen\ec\dpi600\ecbx1000.pk> <C:\Users\Notandi\AppData\Local\
-MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk> <C:\Users\Notandi\Ap
-pData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1000.pk>
-Output written on skyrsla.pdf (3 pages, 108599 bytes).
+ <C:\Users\Notandi\AppData\Local\
+MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1000.pk> <C:\Users\Notandi\Ap
+pData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk> <C:\User
+s\Notandi\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1000.
+pk> <C:\Users\Notandi\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi6
+00\ecrm1200.pk> <C:\Users\Notandi\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jkna
+ppen\ec\dpi600\ecrm1728.pk>
+Output written on skyrsla.pdf (4 pages, 120839 bytes).
 PDF statistics:
- 150 PDF objects out of 1000 (max. 8388607)
+ 191 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
