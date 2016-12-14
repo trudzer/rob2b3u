@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2016.12.12)  14 DEC 2016 17:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2016.12.12)  14 DEC 2016 20:30
 entering extended mode
 **./skyrsla.tex
 (skyrsla.tex
@@ -398,34 +398,67 @@ Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen108
 \Gin@req@width=\dimen109
 )
+(C:\Users\Notandi\AppData\Roaming\MiKTeX\2.9\tex\latex\fancyhdr\fancyhdr.sty
+Package: fancyhdr 2016/09/06 3.8 Extensive control of page headers and footers
+\fancy@headwidth=\skip43
+\f@ncyO@elh=\skip44
+\f@ncyO@erh=\skip45
+\f@ncyO@olh=\skip46
+\f@ncyO@orh=\skip47
+\f@ncyO@elf=\skip48
+\f@ncyO@erf=\skip49
+\f@ncyO@olf=\skip50
+\f@ncyO@orf=\skip51
+)
+(C:\Users\Notandi\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(C:\Users\Notandi\AppData\Roaming\MiKTeX\2.9\tex\latex\lipsum\lipsum.sty
+Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count89
+)
 (skyrsla.aux)
 \openout1 = `skyrsla.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
 
 (C:\Users\Notandi\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count89
+\scratchcounter=\count90
 \scratchdimen=\dimen110
 \scratchbox=\box26
-\nofMPsegments=\count90
-\nofMParguments=\count91
+\nofMPsegments=\count91
+\nofMParguments=\count92
 \everyMPshowfont=\toks17
-\MPscratchCnt=\count92
+\MPscratchCnt=\count93
 \MPscratchDim=\dimen111
-\MPnumerator=\count93
-\makeMPintoPDFobject=\count94
+\MPnumerator=\count94
+\makeMPintoPDFobject=\count95
 \everyMPtoPDFconversion=\toks18
 ) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
 Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
@@ -473,64 +506,97 @@ G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 9.
+(Font)              <12> on input line 20.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 9.
+(Font)              <8> on input line 20.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 9.
+(Font)              <6> on input line 20.
 
 <img/tskoli.png, id=1, 276.28218pt x 67.75313pt>
 File: img/tskoli.png Graphic file (type png)
  <use img/tskoli.png>
-Package pdftex.def Info: img/tskoli.png used on input line 12.
-(pdftex.def)             Requested size: 221.02603pt x 54.20256pt.
- [1
+Package pdftex.def Info: img/tskoli.png used on input line 23.
+(pdftex.def)             Requested size: 179.58128pt x 44.03899pt.
+
+<img/rob2b3u_img.jpg, id=3, 180.675pt x 180.675pt>
+File: img/rob2b3u_img.jpg Graphic file (type jpg)
+ <use img/rob2b3u_img.jpg>
+Package pdftex.def Info: img/rob2b3u_img.jpg used on input line 24.
+(pdftex.def)             Requested size: 180.67455pt x 180.67455pt.
+
+[1
 
 {C:/Users/Notandi/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./img/tsk
-oli.png>] (skyrsla.toc)
+oli.png> <./img/rob2b3u_img.jpg>] (skyrsla.toc)
 \tf@toc=\write3
 \openout3 = `skyrsla.toc'.
 
- [2] (intro.tex) (hardware.tex
+File: img/tskoli.png Graphic file (type png)
+ <use img/tskoli.png>
+Package pdftex.def Info: img/tskoli.png used on input line 28.
+(pdftex.def)             Requested size: 85.35826pt x 20.9319pt.
+ [2]
+(intro.tex) (hardware.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 5.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 5.
 ) (timeplan.tex
-<img/gant.png, id=16, 760.34062pt x 422.32782pt>
+<img/gant.png, id=17, 760.34062pt x 422.32782pt>
 File: img/gant.png Graphic file (type png)
  <use img/gant.png>
 Package pdftex.def Info: img/gant.png used on input line 4.
 (pdftex.def)             Requested size: 228.10394pt x 126.69931pt.
-) [3 <./img/gant.png>] (sudo.tex <img/flowchart.png, id=21, 332.24126pt x 294.0
-9875pt>
-File: img/flowchart.png Graphic file (type png)
+)
+File: img/tskoli.png Graphic file (type png)
 
-<use img/flowchart.png>
+<use img/tskoli.png>
+Package pdftex.def Info: img/tskoli.png used on input line 32.
+(pdftex.def)             Requested size: 85.35826pt x 20.9319pt.
+ [3 <./img/gant.png>] (sudo.tex
+<img/flowchart.png, id=22, 332.24126pt x 294.09875pt>
+File: img/flowchart.png Graphic file (type png)
+ <use img/flowchart.png>
 Package pdftex.def Info: img/flowchart.png used on input line 11.
 (pdftex.def)             Requested size: 99.67314pt x 88.2303pt.
-) (testing.tex) (conclution.tex) [4 <./img/flowchart.png>] (references.tex) (sk
-yrsla.bbl) [5] (appendix.tex (dagbok.txt)) [6]
-(skyrsla.aux) ) 
+)
+(testing.tex) (conclution.tex)
+File: img/tskoli.png Graphic file (type png)
+ <use img/tskoli.png>
+Package pdftex.def Info: img/tskoli.png used on input line 36.
+(pdftex.def)             Requested size: 85.35826pt x 20.9319pt.
+ [4 <./img/flowchart.png>]
+(references.tex) (skyrsla.bbl)
+File: img/tskoli.png Graphic file (type png)
+ <use img/tskoli.png>
+Package pdftex.def Info: img/tskoli.png used on input line 40.
+(pdftex.def)             Requested size: 85.35826pt x 20.9319pt.
+ [5] (appendix.tex
+(dagbok.txt))
+File: img/tskoli.png Graphic file (type png)
+ <use img/tskoli.png>
+Package pdftex.def Info: img/tskoli.png used on input line 42.
+(pdftex.def)             Requested size: 85.35826pt x 20.9319pt.
+ [6] (skyrsla.aux) ) 
 Here is how much of TeX's memory you used:
- 2620 strings out of 493333
- 33025 string characters out of 3139187
- 96141 words of memory out of 3000000
- 6086 multiletter control sequences out of 15000+200000
+ 3415 strings out of 493333
+ 42223 string characters out of 3139187
+ 209401 words of memory out of 3000000
+ 6864 multiletter control sequences out of 15000+200000
  11676 words of font info for 30 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,7n,30p,621b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Notandi\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jkna
-ppen\ec\dpi600\ecti1000.pk> <C:\Users\Notandi\AppData\Local\MiKTeX\2.9\fonts\pk
-\ljfour\jknappen\ec\dpi600\ecbx1000.pk> <C:\Users\Notandi\AppData\Local\MiKTeX\
-2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk> <C:\Users\Notandi\AppData\L
-ocal\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1000.pk> <C:\Users\Notan
-di\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk> <C:
-\Users\Notandi\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm
-1728.pk>
-Output written on skyrsla.pdf (6 pages, 209745 bytes).
+ 40i,17n,43p,621b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Notandi\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
+\jknappen\ec\dpi600\ecti1000.pk> <C:\Users\Notandi\AppData\Local\MiKTeX\2.9\fon
+ts\pk\ljfour\jknappen\ec\dpi600\ecbx1000.pk> <C:\Users\Notandi\AppData\Local\Mi
+KTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk> <C:\Users\Notandi\AppD
+ata\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1000.pk> <C:\Users\
+Notandi\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk
+> <C:\Users\Notandi\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600
+\ecrm1728.pk>
+Output written on skyrsla.pdf (6 pages, 217492 bytes).
 PDF statistics:
- 257 PDF objects out of 1000 (max. 8388607)
+ 258 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
