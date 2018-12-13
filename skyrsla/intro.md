@@ -3,6 +3,6 @@ Hér skal gera lýsingu á verkefninu þ.e hvað,  hvernig og  hvaða forritunar
 Minnst 500 orð. Notagildi skiptir miklumáli, reynið að sjá fyrir ykkur hverjir geti notað vélmennið ykkar og í hvaða tilgangi.  
 Þá kemur í ljós að 500 orð er frekar lítið :-) Hér er gott að byrja á því að lesa til um Arduino en allt hjá þeim er open-sourse 
 og svo er hægt að lesa sér til um efnið í útgefnum bókum sem "programming Arduino" Hér er gott að lýsa högun kerfisins með orðum og
-mynd sem þið getið gert í draw.io sjá mynd: 
+mynd sem þið getið gert í draw.io sjá mynd:  ATH!! muna að setja ykkar eigin texta hér og taka minn út. 
 
 ![Mynd af högun kerfis](https://github.com/eirben/rob2b3u/blob/master/skyrsla/img/system.png)
