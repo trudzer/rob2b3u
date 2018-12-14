@@ -6,7 +6,7 @@ Hér skal gera töflu eða lista yfir allan búnað sem notaður er gott væri a
 ![Burðarlega fyrir arma](./img/275-1810-turntable-bearing-together.jpg)
 
   | Vél | rafbúnaður | Spenna | Viðnám |
-  | --- | --- | --- | --- | --- |
+  | --- | --- | --- | --- |
   | Arduino uno |   |   |   | 
   | MQ7 | 5V | 33ohm |   |
   | Breadboard |   |   |   | 
